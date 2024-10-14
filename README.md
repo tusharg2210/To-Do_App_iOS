@@ -49,9 +49,9 @@ https://github.com/tusharg2210/To-Do_App_iOS.git
 
 ## Architecture
 
-MVVM (Model-View-ViewModel) architecture.
-Core Data/Realm for data persistence.
-SwiftUI for UI (optional) or Swift for backward compatibility.
+1. MVVM (Model-View-ViewModel) architecture.
+2. Core Data/Realm for data persistence.
+3. SwiftUI for UI or Swift for backward compatibility.
 
 ## Contact
 
