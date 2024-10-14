@@ -16,6 +16,7 @@ A simple To-Do app built for iOS using Swift and SwiftUI. This app allows users 
 <img width="362" alt="Screenshot 2024-10-14 at 9 38 08 AM" src="https://github.com/user-attachments/assets/c73928dc-f44b-45f1-8383-32764dab2eba">
 <img width="362" alt="Screenshot 2024-10-14 at 9 38 12 AM" src="https://github.com/user-attachments/assets/b65661f6-a707-4a8a-92d2-13b1c865bc09">
 <img width="362" alt="Screenshot 2024-10-14 at 9 38 33 AM" src="https://github.com/user-attachments/assets/bd9c9fcc-da97-4259-9eb9-d6c6e6771c2f">
+<img width="362" alt="Screenshot 2024-10-14 at 9 38 40 AM" src="https://github.com/user-attachments/assets/5fe6aa78-8444-41bc-8871-c403af337f9e">
 <img width="362" alt="Screenshot 2024-10-14 at 9 39 35 AM" src="https://github.com/user-attachments/assets/f7b3940c-d62c-452b-9541-6f30b5079f8c">
 <img width="362" alt="Screenshot 2024-10-14 at 9 39 46 AM" src="https://github.com/user-attachments/assets/d172847f-6b1b-4d4a-b941-319b0489afe2">
 
