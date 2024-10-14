@@ -11,14 +11,17 @@ A simple To-Do app built for iOS using Swift and SwiftUI. This app allows users 
 
 ## Screenshots
 
-<img width="362" alt="Screenshot 2024-10-14 at 9 35 49 AM" src="https://github.com/user-attachments/assets/b5139813-63fd-4321-840f-4691619d5c8a">
-<img width="362" alt="Screenshot 2024-10-14 at 9 37 05 AM" src="https://github.com/user-attachments/assets/0f4bd445-378a-46b2-a1a7-7383582d4e8b">
-<img width="362" alt="Screenshot 2024-10-14 at 9 38 08 AM" src="https://github.com/user-attachments/assets/c73928dc-f44b-45f1-8383-32764dab2eba">
-<img width="362" alt="Screenshot 2024-10-14 at 9 38 12 AM" src="https://github.com/user-attachments/assets/b65661f6-a707-4a8a-92d2-13b1c865bc09">
-<img width="362" alt="Screenshot 2024-10-14 at 9 38 33 AM" src="https://github.com/user-attachments/assets/bd9c9fcc-da97-4259-9eb9-d6c6e6771c2f">
-<img width="362" alt="Screenshot 2024-10-14 at 9 38 40 AM" src="https://github.com/user-attachments/assets/5fe6aa78-8444-41bc-8871-c403af337f9e">
-<img width="362" alt="Screenshot 2024-10-14 at 9 39 35 AM" src="https://github.com/user-attachments/assets/f7b3940c-d62c-452b-9541-6f30b5079f8c">
-<img width="362" alt="Screenshot 2024-10-14 at 9 39 46 AM" src="https://github.com/user-attachments/assets/d172847f-6b1b-4d4a-b941-319b0489afe2">
+<img width="362" alt="Screenshot 2024-10-14 at 9 35 49 AM" src="https://github.com/user-attachments/assets/5f7abae3-c99b-446d-a13c-9854e2c29c9a">
+<img width="362" alt="Screenshot 2024-10-14 at 9 37 05 AM" src="https://github.com/user-attachments/assets/74975c0b-2a1f-4290-bad8-c656d88bd322">
+<img width="362" alt="Screenshot 2024-10-14 at 9 38 08 AM" src="https://github.com/user-attachments/assets/8c41c4d0-f672-4e7a-8696-891006ea0cc1">
+<img width="362" alt="Screenshot 2024-10-14 at 9 38 12 AM" src="https://github.com/user-attachments/assets/ac03d936-7843-4281-ad32-d9d4c0483ff0">
+<img width="362" alt="Screenshot 2024-10-14 at 9 38 33 AM" src="https://github.com/user-attachments/assets/b5038824-17eb-4c1d-9209-23f1ede8b08b">
+<img width="362" alt="Screenshot 2024-10-14 at 9 39 35 AM" src="https://github.com/user-attachments/assets/9f4d06b0-9ffd-4478-9f50-6c1978ed116b">
+<img width="362" alt="Screenshot 2024-10-14 at 9 39 13 AM" src="https://github.com/user-attachments/assets/bcf2a283-89b6-4250-bdcf-8e1812cccf07">
+<img width="362" alt="Screenshot 2024-10-14 at 9 39 17 AM" src="https://github.com/user-attachments/assets/0a40cf9a-99f0-440e-8d05-073252d8521f">
+<img width="362" alt="Screenshot 2024-10-14 at 9 39 46 AM" src="https://github.com/user-attachments/assets/967bb217-2198-40da-9186-e242389c5b23">
+<img width="362" alt="Screenshot 2024-10-14 at 9 39 49 AM" src="https://github.com/user-attachments/assets/80be15ef-d272-4dfa-8b0b-15868fe7cbf4">
+
 
 
 ## Requirements
